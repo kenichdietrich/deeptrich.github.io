@@ -1,6 +1,6 @@
-baseURL: "https://kenichdietrich.github.io/"
+baseURL: "https://kenichdietrich.github.io/deeptrich.github.io/"
 languageCode: en-us
-title: kenichdietrich
+title: deeptrich
 paginate: 5
 theme: PaperMod
 publishDir: "docs"
